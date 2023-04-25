@@ -1,3 +1,4 @@
 # CSS-parser
-University project 
+University project
+
 The code is not clean, yet it works
